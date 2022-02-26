@@ -7,53 +7,34 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic and Intformation Engineering, Xi’an University of Technology, 2019
+* M.S. in Electrical Engineering, Nagoya University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Software Development Engineer: Microsoft 2021. Oct - Current
+  * Azure Networking Team
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C/C++, Python, C#, MATLAB, Shell, Golang
+* Other Skills: Torch, Linux, Git, Docker, Makefile, LATEX, SPSS
+* Languages: Chinese Mandarin (Native), English (Fluent), Japanese (Intermediate proficiency, JLPT N2)
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* National 2nd Prize (Top 5%), China Undergraduate Mathematical Contest in Modeling, 2017.
+* Completed (Project Leader), National College Students' Innovation and Entrepreneurship Training Program, 2018
+* Jetta Scholarship (Top 1%), Provided by Jetta Company Limited, 2018.
+* JASSO Scholarship, Provided by Japan Student Services Organization Nagoya University, 2019
+* JESS Scholarship, Provided by Japan Education Exchanges and Services, 2020
+* Excellent Presentation Award, Master thesis interim presentation in Nagoya University, 2020
+* Best Student Paper Award, OptoElectronics and Communications Conference (OECC), 2020
+* PN研学生奨励 電気情報通信学会フォトニックネットワーク研究会, 2021
+
+Hobbies
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Reading, Ping Pong, Running, Anime, Violin(Beginner) 

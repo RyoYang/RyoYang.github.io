@@ -1,17 +1,6 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+## Publications
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %} -->
-
-[Dynamic Routing and Spectrum Allocation Based on Actor-critic Learning for Multi-fiber Elastic Optical Networks](https://opg.optica.org/abstract.cfm?uri=PSC-2021-W1B.3)
+[Dynamic Routing and Spectrum Allocation Based on Actor- critic Learning for Multi-fiber Elastic Optical Networks](https://opg.optica.org/abstract.cfm?uri=PSC-2021-W1B.3)
 
 **Yang Wang**, Yojiro Mori, and Hiroshi Hasegawa
 
@@ -28,6 +17,8 @@ author_profile: true
 Qing Liu, **Yang Wang**, Xing Li, Hongye Li
 
 *2019 Computer Engineering and Applications (In Chinese)*
+
+
 
 [Optimizing Multi-criteria k-Shortest Paths in Graph by a Natural Routing genotype-based Genetic Algorithm](https://ieeexplore.ieee.org/document/8397739)
 
