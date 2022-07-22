@@ -14,8 +14,9 @@ Education
 
 Work experience
 ======
-* Software Development Engineer: Microsoft 2021. Oct - Current
-  * Azure Networking Team
+* Software Development Engineer: Microsoft 2021. Sept. - Current
+  * Azure HPC/AI Team 2022. Jul. - Current
+  * Azure Networking Team 2021. Sept. - 2022. Jul.
 
 Skills
 ======
