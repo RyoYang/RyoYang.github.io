@@ -22,7 +22,7 @@ Week 1: [Introduction and Course Overview](https://ucbrise.github.io/cs294-ai-sy
 
 Week 2: [Big Ideas and How to Evaluate ML Systems Research](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec02/02_ai-sys-big-ideas_v2.pdf)
 
-Week 3: [Machine Learning Lifecycle](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec03/03_ml-lifecycle.pdf) - [Note](./2023-08-10-ucb-mlsys-3.md)
+Week 3: [Machine Learning Lifecycle](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec03/03_ml-lifecycle.pdf) - [Note](https://ryoyang.github.io/posts/2023/08/ucb-mlsys-3/)
 
 Week 4: Database Systems and Machine Learning
 
