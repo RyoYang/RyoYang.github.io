@@ -18,17 +18,26 @@ tags:
 
 
 ## 课程大纲 ##
-| Week | Topic                                               | Note Link                                          |
-| ---- | --------------------------------------------------- | -------------------------------------------------- |
-| 1    | [Introduction and Course Overview](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec01/01_ai-sys-intro-small.pdf) |                                                  |
-| 2    | [Big Ideas and How to Evaluate ML Systems Research](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec02/02_ai-sys-big-ideas_v2.pdf) |                                                  |
-| 3    | [Machine Learning Lifecycle](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec03/03_ml-lifecycle.pdf) | [Note](./2023-08-10-ucb-mlsys-3.md)                |
-| 4    | Database Systems and Machine Learning              |                                                  |
-| 5    | Machine Learning Frameworks and Automatic Differentiation |                                                  |
-| 6    | Distributed Model Training                         |                                                  |
-| 7/8  | Prediction Serving                                 |                                                  |
-| 9    | Model Compilation                                 |                                                  |
-| 10/12| Machine Learning Applied to Systems                |                                                  |
-| 11   | Hardware Acceleration for Machine Learning         |                                                  |
-| 13   | Learning with Adversaries                          |                                                  |
-| 14/15| Autonomous Driving                                 |                                                  |
+Week 1: [Introduction and Course Overview](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec01/01_ai-sys-intro-small.pdf)
+
+Week 2: [Big Ideas and How to Evaluate ML Systems Research](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec02/02_ai-sys-big-ideas_v2.pdf)
+
+Week 3: [Machine Learning Lifecycle](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec03/03_ml-lifecycle.pdf) - [Note](./2023-08-10-ucb-mlsys-3.md)
+
+Week 4: Database Systems and Machine Learning
+
+Week 5: Machine Learning Frameworks and Automatic Differentiation
+
+Week 6: Distributed Model Training
+
+Weeks 7/8: Prediction Serving
+
+Week 9: Model Compilation
+
+Weeks 10/12: Machine Learning Applied to Systems
+
+Week 11: Hardware Acceleration for Machine Learning
+
+Week 13: Learning with Adversaries
+
+Weeks 14/15: Autonomous Driving
