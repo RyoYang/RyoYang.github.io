@@ -1,6 +1,6 @@
 ---
 title: 'UCB Machine Learning Systems (Fall 2019) Note Summary'
-date: 2023-08-10
+date: 2023-08-9
 author: RyoYang
 permalink: /posts/2023/08/ucb-mlsys-summary/
 tags:
@@ -18,17 +18,17 @@ tags:
 
 
 ## 课程大纲 ##
-| Week  | Topic | Note Link |
-| :---: | --- | :---: |
-|1|[Introduction and Course Overview](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec01/01_ai-sys-intro-small.pdf)|   |
-|2|[Big Ideas and How to Evaluate ML Systems Research](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec02/02_ai-sys-big-ideas_v2.pdf)|   |
-|3|[Machine Learning Lifecycle](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec03/03_ml-lifecycle.pdf)|[Note](./2023-08-10-ucb-mlsys-3.md)|
-|4|Database Systems and Machine Learning|   |
-|5|Machine Learning Frameworks and Automatic Differentiation|   |
-|6|Distributed Model Training|   |
-|7/8|Prediction Serving|   |
-|9|Model Compilation|   |
-|10/12|Machine Learning Applied to Systems|   |
-|11|Hardware Acceleration for Machine Learning|   |
-|13|Learning with Adversaries|   |
-|14/15|Autonomous Driving|   |
+| Week | Topic                                               | Note Link                                          |
+| ---- | --------------------------------------------------- | -------------------------------------------------- |
+| 1    | [Introduction and Course Overview](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec01/01_ai-sys-intro-small.pdf) |                                                  |
+| 2    | [Big Ideas and How to Evaluate ML Systems Research](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec02/02_ai-sys-big-ideas_v2.pdf) |                                                  |
+| 3    | [Machine Learning Lifecycle](https://ucbrise.github.io/cs294-ai-sys-fa19/assets/lectures/lec03/03_ml-lifecycle.pdf) | [Note](./2023-08-10-ucb-mlsys-3.md)                |
+| 4    | Database Systems and Machine Learning              |                                                  |
+| 5    | Machine Learning Frameworks and Automatic Differentiation |                                                  |
+| 6    | Distributed Model Training                         |                                                  |
+| 7/8  | Prediction Serving                                 |                                                  |
+| 9    | Model Compilation                                 |                                                  |
+| 10/12| Machine Learning Applied to Systems                |                                                  |
+| 11   | Hardware Acceleration for Machine Learning         |                                                  |
+| 13   | Learning with Adversaries                          |                                                  |
+| 14/15| Autonomous Driving                                 |                                                  |
