@@ -1,6 +1,6 @@
 ---
 title: 'UCB Machine Learning Systems (Fall 2019) Note Summary'
-date: 2023-08-9
+date: 2023-08-09
 author: RyoYang
 permalink: /posts/2023/08/ucb-mlsys-summary/
 tags:
