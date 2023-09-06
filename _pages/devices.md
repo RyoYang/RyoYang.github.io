@@ -9,7 +9,7 @@ redirect_from:
 
 PC
 ======
-#### Self-owned
+### Self-owned
 * MacBook Pro (13-inch, 2018, Four Thunderbolt 3 ports, retina display)
   * 2.3GHz quad-core Intel Core i5
   * 16GB 2133MHz LPDDR3 memory
@@ -23,7 +23,7 @@ PC
   * RTX 3070ti 8GB GDDR6
   * Lunar Light
 
-#### Company-owned
+### Company-owned
 * ThinkPad X1 Yoga Gen 6 (14-inch, 2021, 4K UHD+)
   * 3.00 GHz, 11th Gen Intel Core i7-1185G7
   * 32GB 3200MHz DDR4x memory
@@ -68,6 +68,6 @@ Camera
   * Sony 16-50mm F3.5-5.6 OSS APS-C E-Mount Zoom Lens
   * Sony 18-135mm F3.5-5.6 OSS APS-C E-Mount Zoom Lens
 
-#### Plan to buy:
+### Plan to buy:
 
 * Sony alpha 7C II compact full-frame camera
