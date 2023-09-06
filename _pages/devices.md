@@ -44,7 +44,7 @@ Video Games
 ======
 * Xbox Series S (512GB)
   * Xbox Wireless Controller - Robot White * 2
-  * Xbox Wireless Controller - Pulse Green
+  * Xbox Wireless Controller - Electric Volt
 
 * Nintendo Switch
   * Nintendo Switch Pro Controller
