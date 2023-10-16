@@ -20,9 +20,9 @@ Work experience
 
 Skills
 ======
-* Programming Languages: C/C++, Python, C#, MATLAB, Shell, Golang
-* Other Skills: Torch, Linux, Git, Docker, Makefile, LATEX, SPSS
-* Languages: Chinese Mandarin (Native), English (Fluent), Japanese (Intermediate proficiency, JLPT N2)
+* Programming Languages: Python, C/C++, MATLAB, Rust, Golang, Shell
+* Other Skills: Torch, PBS, Slurm, Docker, Git, Docker, InfiniBand, MPI
+* Languages: Chinese Mandarin (Native), English (Professional Proficiency), Japanese (Intermediate proficiency, JLPT N2)
 
 Awards
 ======
