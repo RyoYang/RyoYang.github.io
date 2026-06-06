@@ -8,7 +8,7 @@ author_profile: true
 <div class="exp-hero">
   <p class="exp-kicker">Experience</p>
   <h2>Building high-performance, high-reliability network infrastructure for AI at cloud scale.</h2>
-  <p>I work on networking benchmarks, telemetry, resilient transport, and agentic infrastructure systems for large-scale AI and HPC clusters. My work spans production engineering, research collaboration, and practical systems design for cloud-scale infrastructure.</p>
+  <p>I work on networking benchmarks, infrastructure observability, resilient transport, and agentic infrastructure systems for large-scale AI and HPC clusters. My work spans production engineering, research collaboration, and practical systems design for cloud-scale infrastructure.</p>
 </div>
 
 <div class="exp-timeline">
@@ -18,6 +18,7 @@ author_profile: true
       <div>
         <h3>Software Engineer II · Azure HPC Team</h3>
         <p class="exp-org">Microsoft · Vancouver, Canada / Beijing, China</p>
+        <span class="exp-date">Sept. 2024 – Present</span>
       </div>
     </div>
 
@@ -54,6 +55,7 @@ author_profile: true
       <div>
         <h3>Software Engineer · Azure HPC Team</h3>
         <p class="exp-org">Microsoft China · Beijing, China</p>
+        <span class="exp-date">July 2022 – Oct. 2024</span>
       </div>
     </div>
 
@@ -66,10 +68,29 @@ author_profile: true
     </div>
 
     <div class="exp-project">
-      <h4><a href="https://github.com/Azure/Moneo">Moneo</a>: Telemetry and Performance Observability</h4>
+      <h4><a href="https://github.com/Azure/Moneo">Moneo</a>: Observability and Performance Signals</h4>
       <ul>
-        <li>Worked on the open-source <a href="https://github.com/Azure/Moneo">Moneo</a> telemetry stack for GPU, InfiniBand, and custom performance signals.</li>
+        <li>Worked on the open-source <a href="https://github.com/Azure/Moneo">Moneo</a> observability stack for GPU, InfiniBand, and custom performance signals.</li>
         <li>Helped turn low-level system metrics into actionable signals for anomaly detection and infrastructure optimization.</li>
+      </ul>
+    </div>
+  </article>
+
+  <article class="exp-card">
+    <div class="exp-card__head">
+      <img class="org-logo" src="/images/logos/microsoft.svg" alt="Microsoft logo">
+      <div>
+        <h3>Software Engineer · Azure Networking Team</h3>
+        <p class="exp-org">Microsoft China · Beijing, China</p>
+        <span class="exp-date">Oct. 2021 – June 2022</span>
+      </div>
+    </div>
+
+    <div class="exp-project">
+      <h4><a href="https://github.com/opencomputeproject/SAI">SAI</a> Qualification for SONiC</h4>
+      <ul>
+        <li>Built validation infrastructure for multi-vendor SONiC/SAI qualification, improving confidence in switch behavior and cloud-scale networking interoperability.</li>
+        <li>Streamlined automated switch interface testing and release qualification workflows across vendor platforms for Azure networking.</li>
       </ul>
     </div>
   </article>
@@ -80,7 +101,7 @@ author_profile: true
 <div class="edu-grid">
   <article class="edu-card">
     <div class="edu-card__header">
-      <span class="edu-logo-wrap"><img class="edu-logo" src="/images/logos/nagoya-university.svg" alt="Nagoya University logo"></span>
+      <span class="edu-logo-wrap"><img class="edu-logo" src="/images/logos/nagoya-university.jpg" alt="Nagoya University logo"></span>
       <div>
         <h3><a href="https://www.nagoya-u.ac.jp/">Nagoya University</a></h3>
         <p class="edu-location">Nagoya, Japan</p>
@@ -100,7 +121,7 @@ author_profile: true
         <p class="edu-location">Xi'an, China</p>
       </div>
     </div>
-    <p class="edu-degree">B.Sc. in Electrical Information and Engineering</p>
+    <p class="edu-degree">B.Sc. in Electrical Information and Engineering · Major GPA 3.43/4.0</p>
     <p class="edu-date">Sept. 2015 – July 2019</p>
     <p>Supervisor: <a href="https://www.researchgate.net/profile/Qing-Liu-122">Dr. Qing Liu</a></p>
     <p>Thesis: An Encoding-Free Genetic Algorithm for Topology Optimization</p>
@@ -110,5 +131,5 @@ author_profile: true
 ## Skills
 
 <div class="skill-cloud">
-  <span>Python</span><span>C/C++</span><span>Rust</span><span>Golang</span><span>Shell</span><span>Torch</span><span>Slurm</span><span>InfiniBand</span><span>MPI</span><span>NCCL</span><span>Megatron-LM</span><span>Azure OpenAI</span><span>LLM Agents</span>
+  <span>Python</span><span>C/C++</span><span>Rust</span><span>Golang</span><span>Shell</span><span>Torch</span><span>Slurm</span><span>InfiniBand</span><span>MPI</span><span>NCCL</span><span>Megatron-LM</span><span>LLM Agents</span>
 </div>
