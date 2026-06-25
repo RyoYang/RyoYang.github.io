@@ -26,8 +26,13 @@ author_profile: true
       <h4>MRC and Resilient AI Supercomputer Networking</h4>
       <ul>
         <li>Work on high-performance, high-reliability network infrastructure for large AI clusters, including MRC and SRv6-based resilient networking.</li>
-        <li>Paper: <a href="https://arxiv.org/abs/2605.04333">Resilient AI Supercomputer Networking using MRC and SRv6</a>.</li>
-        <li>Related writeups: <a href="https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/building-resilient-networks-for-ai-supercomputers/4516919">Microsoft</a>, <a href="https://openai.com/index/mrc-supercomputer-networking">OpenAI</a>, <a href="https://www.amd.com/en/blogs/2026/amd-advances-ai-networking-at-scale-with-mrc.html">AMD</a>, <a href="https://www.broadcom.com/blog/enabling-ai-networking-scale-with-multi-path-reliable-connections-mrc-">Broadcom</a>, and <a href="https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc">NVIDIA</a>.</li>
+        <li>Papers:
+          <ul>
+            <li><a href="https://arxiv.org/abs/2606.18170">The Multipath Reliable Connection (MRC) Transport</a></li>
+            <li><a href="https://arxiv.org/abs/2605.04333">Resilient AI Supercomputer Networking using MRC and SRv6</a></li>
+          </ul>
+        </li>
+        <li>Related writeups: <a href="https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/building-resilient-networks-for-ai-supercomputers/4516919">Microsoft</a>, <a href="https://openai.com/index/mrc-supercomputer-networking">OpenAI</a>, <a href="https://www.amd.com/en/blogs/2026/amd-advances-ai-networking-at-scale-with-mrc.html">AMD</a>, <a href="https://www.broadcom.com/blog/enabling-ai-networking-scale-with-multi-path-reliable-connections-mrc-">Broadcom</a>, Intel, and <a href="https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc">NVIDIA</a>.</li>
       </ul>
     </div>
 

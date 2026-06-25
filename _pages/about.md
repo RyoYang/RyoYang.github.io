@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Yang Wang is a software engineer at Microsoft Azure HPC building high-performance, resilient networking and infrastructure for large-scale AI and HPC systems."
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
   <p class="home-intro__eyebrow">Yang Wang · Software Engineer II, <a href="https://azure.microsoft.com/en-us/solutions/high-performance-computing">Azure HPC</a>, <a href="https://www.microsoft.com/">Microsoft</a></p>
   <p class="home-intro__lead">I build high-performance, production-grade infrastructure for large-scale AI and HPC systems.</p>
 
-  <p>My work focuses on <a href="https://arxiv.org/abs/2605.04333">resilient data center networking</a>, <a href="https://github.com/microsoft/superbenchmark">interconnect benchmarking</a>, <a href="https://github.com/Azure/Moneo">infrastructure observability</a>, and agentic systems for large-scale AI and HPC clusters. I enjoy building production-oriented systems that make cloud-scale infrastructure measurable, diagnosable, resilient, and easier to operate.</p>
+  <p>My work spans <a href="https://arxiv.org/abs/2605.04333">resilient data center networking</a> (MRC and SRv6), topology-aware <a href="https://github.com/microsoft/superbenchmark">interconnect benchmarking</a> across NVLink, InfiniBand, and Ethernet, GPU and fabric <a href="https://github.com/Azure/Moneo">observability</a>, and agentic tooling that connects LLM agents to real infrastructure workflows. I like building systems that make cloud-scale infrastructure measurable, diagnosable, and resilient in production.</p>
 
   <p>Before joining Microsoft, I received my M.S. in Electrical Engineering from <a href="https://www.nagoya-u.ac.jp/">Nagoya University</a> and my B.S. in Electronic and Information Engineering from <a href="https://www.xaut.edu.cn/">Xi'an University of Technology</a>.</p>
 
@@ -24,13 +24,9 @@ redirect_from:
 
 ## About
 
-I am a systems engineer who likes working close to the real constraints of infrastructure: throughput, latency, scheduling, failure recovery, deployment complexity, and operational clarity. I care about systems that are not only fast on paper, but also measurable, diagnosable, and resilient in production.
+I am a systems engineer who likes working close to the real constraints of infrastructure: throughput, latency, scheduling, failure recovery, and operational clarity. I care about systems that are fast not just on paper, but measurable, diagnosable, and resilient in production.
 
-Currently, my work centers on AI infrastructure at Microsoft. I am especially interested in the intersection of data center networking, high-performance computing, distributed systems, and LLM-driven infrastructure automation.
-
-A major theme of my recent work is building reliable infrastructure for large AI clusters, including networking mechanisms, benchmarking algorithms, observability systems, and agentic tools that make failures easier to detect, isolate, and recover from in production environments.
-
-Outside of work, I keep an active interest in machine learning systems, networking, and the broader tooling ecosystem around modern infrastructure.
+At Microsoft Azure HPC, I work at the intersection of data center networking, high-performance computing, and LLM-driven automation. Recent work includes resilient transport for large training clusters (MRC and SRv6), the open-source [SuperBench](https://github.com/microsoft/superbenchmark) and [Moneo](https://github.com/Azure/Moneo) projects for benchmarking and observability, and an agentic platform that pairs LLM agents with infrastructure evaluation — all aimed at making failures easier to detect, isolate, and recover from at cluster scale.
 
 ## Experience Highlights
 
@@ -49,14 +45,14 @@ Outside of work, I keep an active interest in machine learning systems, networki
 
   <article class="home-highlight">
     <span>Benchmark</span>
-    <h3><a href="https://github.com/microsoft/superbenchmark">Benchmarking</a> and <a href="https://github.com/Azure/Moneo">Observability</a></h3>
-    <p>Building practical validation and observability systems for cloud-scale AI infrastructure.</p>
+    <h3><a href="https://github.com/microsoft/superbenchmark">SuperBench</a> and <a href="https://github.com/Azure/Moneo">Moneo</a></h3>
+    <p>Open-source, topology-aware benchmarking and GPU/InfiniBand observability for cloud AI infrastructure (USENIX ATC 2024 Best Paper).</p>
   </article>
 
   <article class="home-highlight">
     <span>Agents</span>
     <h3>Agentic Infrastructure</h3>
-    <p>Exploring LLM-driven agents and automation for infrastructure evaluation and operations.</p>
+    <p>An agentic platform pairing LLM agents with benchmark selection, infrastructure evaluation, and operational automation.</p>
   </article>
 </div>
 
@@ -64,6 +60,7 @@ Outside of work, I keep an active interest in machine learning systems, networki
 
 ## News
 
+- June 2026: Our cross-company paper <a class="home-link" href="https://arxiv.org/abs/2606.18170">The Multipath Reliable Connection (MRC) Transport</a> appeared on arXiv, presenting an open, production-grade transport for large-scale AI/ML training over best-effort Ethernet.
 - May 2026: Our cross-company paper <a class="home-link" href="https://arxiv.org/abs/2605.04333">Resilient AI Supercomputer Networking using MRC and SRv6</a> appeared on arXiv, with collaboration across OpenAI, Microsoft, AMD, Broadcom, and NVIDIA.
 - Apr. 2026: <a class="home-link" href="https://dl.acm.org/doi/10.1145/3767334">SuperBench</a> was extended in ACM Transactions on Computer Systems.
 - Nov. 2024: Transferred from Microsoft China in Beijing to Microsoft Canada Development Centre in Vancouver.
@@ -73,12 +70,19 @@ Outside of work, I keep an active interest in machine learning systems, networki
 
 ## Research Interests
 
-- High-performance networking and resilient systems for large-scale AI and HPC clusters
-- AI infrastructure validation, interconnect benchmarking, and observability systems
+- High-performance networking and resilient transport for large-scale AI and HPC clusters
+- Interconnect benchmarking, validation, and observability for AI infrastructure
+- LLM-driven agents and automation for infrastructure evaluation and operations
 
 ## Selected Publications
 
 <div class="pub-list pub-list--compact">
+  <article class="pub-item pub-item--featured">
+    <h3 class="pub-title"><a href="https://arxiv.org/abs/2606.18170">The Multipath Reliable Connection (MRC) Transport</a></h3>
+    <p class="pub-authors">Rip Sohan, Eric Spada, Eric Davis, Mark Handley, Idan Burstein, Tony Hurson, Jithin Jose, Vivek Kashyap, Rong Pan, Sayantan Sur, Sreevatsa Anantharamu, Aviv Barnea, Adrian Caulfield, Elazar Cohen, Elliot Edmunds, Yamin Friedman, Mahdieh Ghazi, Murali Guramali, Torsten Hoefler, Vipin Jain, Abdul Kabbani, Noam Katz, Yanfang Le, Charlie Mbariky, Guglielmo Morandin, Masoud Moshref, Shane O'Neil, Michael Papamichael, Jonas Pfefferle, Siva Santosh Pyla, Costin Raiciu, David Riddoch, Karen Schramm, Yuval Shpigelman, Shahaf Shuler, Shy Shyman, Raghava Sivaramu, Amin Tootoonchian, <strong>Yang Wang</strong></p>
+    <div class="pub-meta"><span class="pub-badge pub-badge--blue">MRC</span><span>arXiv 2026</span></div>
+  </article>
+
   <article class="pub-item pub-item--featured">
     <h3 class="pub-title"><a href="https://arxiv.org/abs/2605.04333">Resilient AI Supercomputer Networking using MRC and SRv6</a></h3>
     <p class="pub-note">Authors are grouped by company; within each company, names are listed alphabetically.</p>

@@ -11,6 +11,12 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 <div class="pub-list">
 	<article class="pub-item pub-item--featured">
+		<h3 class="pub-title"><a href="https://arxiv.org/abs/2606.18170">The Multipath Reliable Connection (MRC) Transport</a></h3>
+		<p class="pub-authors">Rip Sohan, Eric Spada, Eric Davis, Mark Handley, Idan Burstein, Tony Hurson, Jithin Jose, Vivek Kashyap, Rong Pan, Sayantan Sur, Sreevatsa Anantharamu, Aviv Barnea, Adrian Caulfield, Elazar Cohen, Elliot Edmunds, Yamin Friedman, Mahdieh Ghazi, Murali Guramali, Torsten Hoefler, Vipin Jain, Abdul Kabbani, Noam Katz, Yanfang Le, Charlie Mbariky, Guglielmo Morandin, Masoud Moshref, Shane O'Neil, Michael Papamichael, Jonas Pfefferle, Siva Santosh Pyla, Costin Raiciu, David Riddoch, Karen Schramm, Yuval Shpigelman, Shahaf Shuler, Shy Shyman, Raghava Sivaramu, Amin Tootoonchian, <strong>Yang Wang</strong></p>
+		<div class="pub-meta"><span class="pub-badge pub-badge--blue">arXiv</span><span>arXiv preprint arXiv:2606.18170, 2026</span></div>
+	</article>
+
+	<article class="pub-item pub-item--featured">
 		<h3 class="pub-title"><a href="https://arxiv.org/abs/2605.04333">Resilient AI Supercomputer Networking using MRC and SRv6</a></h3>
 		<p class="pub-note">Authors are grouped by company; within each company, names are listed alphabetically.</p>
 		<div class="pub-author-groups">
